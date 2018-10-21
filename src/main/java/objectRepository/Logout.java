@@ -4,7 +4,7 @@ package objectRepository;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 //sadbaskd
-/mckjldnc
+//mckjldnc
 public class Logout {
 	WebDriver d;
 	By logout=By.linkText("Log Out");
