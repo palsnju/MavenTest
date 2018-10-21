@@ -3,7 +3,7 @@ package objectRepository;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-//sadbaskd
+
 //mckjldncd
 public class Logout {
 	WebDriver d;
